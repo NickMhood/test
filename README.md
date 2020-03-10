@@ -27,3 +27,5 @@ That is is the result of us not taking care of the situation much earlier, and n
 |March 8   |143    |495          |
 |March 9   |145    |640          |
 ---
+
+This is happening inside our country right now, meanwhile people in our country are still fighting over the dumbest shit
