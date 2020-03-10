@@ -13,4 +13,4 @@ If you really need that many rolls, then you probably need to go to the hospital
 
 And what about how governments are taking care of the situation. Some are taking extreme measures to contain the virus, while others are fucking lying or doing whatever the hell they're doing. This fucking virus is so much of a cunt, it can hide in the body ranging from 14 to pup to 24 days without any symptoms showing. We should've been taking care of this the first it came onto our radars back in January when i still could've been maintained. I mean, take a look at this map on the number of symptoms as of today compared to the beginning of this situation.
 
-![alt text] (https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak#/media/File:COVID-19-outbreak-timeline.gif)
+![alt text] https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak#/media/File:COVID-19-outbreak-timeline.gif
