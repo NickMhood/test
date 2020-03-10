@@ -21,3 +21,9 @@ That is is the result of us not taking care of the situation much earlier, and n
 | -------- |:-----:| -----------:|
 |March 3   |28     | 85          |
 |March 4   |26     |111          |
+|March 5   |64     |175          |
+|March 6   |77     |252          |
+|March 7   |100    |352          |
+|March 8   |143    |495          |
+|March 9   |145    |640          |
+
